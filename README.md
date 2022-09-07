@@ -1,2 +1,3 @@
 # KoreanNamesTeamDivide
-Divide into groups of 4 with members with name written in Korean letters
+Divide many people into groups of 4. 
+Their names are written in Korean letters.
